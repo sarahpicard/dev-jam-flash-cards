@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div>
+    <div className='bg-orange-50 h-screen w-screen'>
       <Home />
     </div>
   );
