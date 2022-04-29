@@ -1,6 +1,8 @@
 const Flashcard = () => {
   return (
-    <h1>One flashcard</h1>
+    <div>
+      <h1>One flashcard</h1>
+    </div>
   )
 }
 

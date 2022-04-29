@@ -1,6 +1,11 @@
+import Flashcard from "../components/Cards/Flashcard"
+
 const Home = () => {
   return (
-    <h1>Dev Jam Flashcards</h1>
+    <div>
+      <h1>Dev Jam Flashcards</h1>
+      <Flashcard />
+    </div>
   )
 }
 
